@@ -1,0 +1,2 @@
+# scrapy-doubanmovie-mongodb
+此项目是基于scrapy框架来爬取大家非常喜欢的豆瓣250电影中的一些标签并将结果写入mongodb数据库
